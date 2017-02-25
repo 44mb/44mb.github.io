@@ -8,10 +8,14 @@ categories: jeep mb-38
 ![Picking up the Jeep](/files/images/jeep-pickup.jpg "Picking up the Jeep")
 
 
-Yesterday was an adventure, to say the least. It actually started Thursday 
-afternoon when I made a spur of the moment decision to go down to Newton
-and look at a few old Jeeps. There was a 1948 Willys CJ-2A with a stuck 
-engine and, what is told, a 1944 Ford GPW. 
+Yesterday was an adventure, to say the least. It actually started Tuesday
+morning when I saw an ad on Craigslist for 2 old Jeeps. I've been looking
+for one for a few years now and the prices and distance from me didn't seem
+too bad. So, I called them, talked to them about he Jeeps and made plans to
+head down the mountain and take a look at them. Tursday afternoon when I made
+the spur of the moment decision to go down to Newton and look see what this dude
+had. There was a 1948 Willys CJ-2A with a stuck engine and, what is told, a 1944
+Ford GPW. 
 
 Turns out the GPW was actually a MB-38 that isn't in that bad of shape. The
 engine is mostly there, seems to move, and the frame is pretty clean. It
