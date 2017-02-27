@@ -13,6 +13,9 @@ paginate_path: "/posts/:num"
 
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
