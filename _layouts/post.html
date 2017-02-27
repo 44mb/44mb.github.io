@@ -2,9 +2,12 @@
 layout: default
 ---
 
-<div class="row">
-  <div class="col">
-    <h2 class="display-4 pb-5">{{ page.title }}</h2>
-    {{ content }}
+<div class="container pb-5">
+  <div class="row">
+    <div class="col">
+      <h2 class="display-4">{{ page.title }}</h2>
+      <h3 class="pb-5">{{ page.date | date: "%A, %B %d,%Y" }}</h3>
+      {{ content }}
+    </div>
   </div>
 </div>
