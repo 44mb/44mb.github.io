@@ -35,6 +35,6 @@ that's not broken.
 
 ![Picture CJ head](/files/images/jeep-engine-cj.jpg "The CJ head"){:class="img-fluid"}
 
-I also discovered that the head isn't the original head from the engine, I'm kind of thinking that the whole engine and drive train are from a CJ-2A/3A. I need to look at the look at the casting numbers. I found some pictures of the different heads for the [L-134 engine here][l-134-heads]{:target="_blank"}.
+I also discovered that the head isn't the original head from the engine, I'm kind of thinking that the whole engine and drive train are from a CJ-2A/3A. The casting numbers say it's from a CJ-2A/3A. I found some pictures of the different heads for the [L-134 engine here][l-134-heads]{:target="_blank"}.
 
 [l-134-heads]: http://ww2jeeps.com/htm/heads.htm "L-134 Heads"
