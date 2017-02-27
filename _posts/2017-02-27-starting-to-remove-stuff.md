@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting to remove stuff and figure out what I have"
-date:   2017-02-27 10:41:00 -0500
+date:   2017-02-26 10:41:00 -0500
 ---
 
 ![Picture of the engine bay](/files/images/jeep-beginning-on-engine.jpg "Looking into the engine bay"){:class="img-fluid"}
