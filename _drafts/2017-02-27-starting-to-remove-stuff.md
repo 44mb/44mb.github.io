@@ -4,7 +4,7 @@ title:  "Starting to remove stuff and figure out what I have"
 date:   2017-02-27 10:41:00 -0500
 ---
 
-[[ Picture of inside the engine bay ]]
+![Picture of the engine bay](/files/images/jeep-beginning-on-engine.jpg "Looking into the engine bay"){:class="img-fluid"}
 
 Yesterday I spent the morning doing a few different things. Mainly I started
 removing parts from the right side of the engine and trying to figure out what
@@ -33,9 +33,8 @@ the cylinders, they looked like they are in decent shape. As soon as I get the
 grill and radiator off I'll be able to get the timing cover off and make sure
 that's not broken.
 
-[[ Picture of the head ]]
+![Picture CJ head](/files/images/jeep-engine-cj.jpg "The CJ head"){:class="img-fluid"}
 
-I also discovered that the head isn't the original head from the engine, I'm kind of thinking that the whole engine and drive train are from a CJ-2A or an MC/M38. I need to look at the look at the casting numbers. I found some pictures of the different heads for the [L-134 engine here][l-134-heads]{:target="_blank"}.
-
+I also discovered that the head isn't the original head from the engine, I'm kind of thinking that the whole engine and drive train are from a CJ-2A/3A. I need to look at the look at the casting numbers. I found some pictures of the different heads for the [L-134 engine here][l-134-heads]{:target="_blank"}.
 
 [l-134-heads]: http://ww2jeeps.com/htm/heads.htm "L-134 Heads"
