@@ -7,7 +7,7 @@ date:   2017-02-25 13:56:17 -0500
 ![Picking up the Jeep](/files/images/jeep-pickup.jpg "Picking up the Jeep"){:class="img-fluid"}
 
 Yesterday was an adventure, to say the least. It actually started Tuesday
-morning when I saw an ad on Craigslist for 2 old Jeeps. I've been looking
+morning when I saw an ad on Craigslist from [eWillys][ewillys-ad]{:target="\_blank"} for 2 old Jeeps. I've been looking
 for one for a few years now and the prices and distance from me didn't seem
 too bad. So, I called them, talked to them about he Jeeps and made plans to
 head down the mountain and take a look at them. Tursday afternoon when I made
@@ -47,3 +47,5 @@ I've taken off the headlights and started cutting wires so I can take the grill
 off and deal with that.
 
 ![Picture of the jeep with windows down](/files/images/jeep-parked-windows-down.jpg "The jeep with the windows down."){:class="img-fluid"}
+
+[ewillys-ad]: http://www.ewillys.com/2017/02/21/1944-mb-1948-cj-2a-north-carolina/
