@@ -1,8 +1,19 @@
+
+body {
+  background-color: $footer-background;
+}
+
+#wrapper-content {
+  background-color: $white;
+  padding-top: 2rem;
+}
+
 #wrapper-jumbotron {
   background-color: $green;
   border-radius: 0px;
   padding-top: 10rem;
   padding-bottom: 10rem;
+  margin-bottom: 0rem;
 
   h1 a {
     color: $green-text;
