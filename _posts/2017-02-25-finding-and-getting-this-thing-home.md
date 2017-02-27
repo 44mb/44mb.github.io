@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Finding and geting this thing home"
+title:  "Finding and getting this thing home"
 date:   2017-02-25 13:56:17 -0500
 ---
 
-![Picking up the Jeep](/files/images/jeep-pickup.jpg "Picking up the Jeep")
-
+![Picking up the Jeep](/files/images/jeep-pickup.jpg "Picking up the Jeep"){:class="img-fluid"}
 
 Yesterday was an adventure, to say the least. It actually started Tuesday
 morning when I saw an ad on Craigslist for 2 old Jeeps. I've been looking
@@ -32,20 +31,19 @@ The drive up the mountain sucked, I did 40 pretty much the entire way until I
 got to the hilly part of 321. Then I did 20-30 the whole way up. The jeep is
 pretty heavy.
 
-![Picture of the jeep in the ditch.](/files/images/jeep-in-ditch.jpg "The jeep is in the ditch, oops.")
+![Picture of the jeep in the ditch.](/files/images/jeep-in-ditch.jpg "The jeep is in the ditch, oops."){:class="img-fluid"}
 
 Getting it off the trailer wasn't fun either. As I unstrapped it and started
 to push it off the trailer, it rolled back right into a ditch and was stopped
 by a tree. Good start. Then I managed to turn the trailer around and get it 
 back to U-Haul and went to Lowe's to get a chain and pull it out of the ditch.
 
-![Picture of the jeep with headlights](/files/images/jeep-side-with-headlights.jpg "The jeep with headlights.")
+![Picture of the jeep with headlights](/files/images/jeep-side-with-headlights.jpg "The jeep with headlights."){:class="img-fluid"}
 
-
-![Picture of the jeep without headlights](/files/images/jeep-side-no-headlights.jpg "The jeep without headlights.")
+![Picture of the jeep without headlights](/files/images/jeep-side-no-headlights.jpg "The jeep without headlights."){:class="img-fluid"}
 
 That's where we're at now. It's parked in my turn around and just hanging out.
 I've taken off the headlights and started cutting wires so I can take the grill
 off and deal with that.
 
-![Picture of the jeep with windows down](/files/images/jeep-parked-windows-down.jpg "The jeep with the windows down.")
+![Picture of the jeep with windows down](/files/images/jeep-parked-windows-down.jpg "The jeep with the windows down."){:class="img-fluid"}

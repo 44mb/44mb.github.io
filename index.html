@@ -3,9 +3,8 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  <small class="text-muted">{{ post.date | date: "%m/%d/%Y" }}</small>
-</h2>
-{{ post.excerpt }}
+  <h2 class="display-4"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+  <h3>{{ post.date | date: "%m/%d/%Y" }}</h3>
+  {{ post.content }}
 {% endfor %}
 
