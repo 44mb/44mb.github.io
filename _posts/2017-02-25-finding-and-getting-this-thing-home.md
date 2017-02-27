@@ -15,7 +15,7 @@ the spur of the moment decision to go down to Newton and look see what this dude
 had. There was a 1948 Willys CJ-2A with a stuck engine and, what is told, a 1944
 Ford GPW. 
 
-Turns out the GPW was actually a MB-38 that isn't in that bad of shape. The
+Turns out the GPW was actually a MB that isn't in that bad of shape. The
 engine is mostly there, seems to move, and the frame is pretty clean. It
 needs a lot of work and time put into it. I rolled it around a bit and
 the differentials seemed okay. The 4 wheel stick moved back and forth and
