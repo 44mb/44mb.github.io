@@ -1,0 +1,16 @@
+#wrapper-jumbotron {
+  background-color: $green;
+  border-radius: 0px;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+
+  h1 a {
+    color: $green-text;
+
+    &:active,
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+

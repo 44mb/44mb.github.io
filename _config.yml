@@ -1,13 +1,16 @@
 title: A 1944ish Willys MB-38
 email: your-email@domain.com
-description: > 
-  This is about my Willys MB-38 Jeep. Hopefully I can get it to run.
+description: This is about my Willys MB-38 Jeep. Hopefully I can get it to run.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+# Pagination
+paginate: 3
+paginate_path: "/posts/:num"
+
 gems:
   - jekyll-feed
 exclude:

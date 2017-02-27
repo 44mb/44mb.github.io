@@ -2,7 +2,6 @@
 layout: post
 title:  "Finding and geting this thing home"
 date:   2017-02-25 13:56:17 -0500
-categories: jeep mb-38
 ---
 
 ![Picking up the Jeep](/files/images/jeep-pickup.jpg "Picking up the Jeep")
